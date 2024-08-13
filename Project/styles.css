@@ -2,6 +2,7 @@
 #card {
     border: 1px solid black;
     width: 350px;
+    /*image from pexels free for use anywhere*/
     background-image: url(https://images.pexels.com/photos/1272809/pexels-photo-1272809.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
 }
 
@@ -10,12 +11,12 @@
 }
 
 h3 {
-    text-shadow: -3px -3px 3px white;
+    text-shadow: -3px -3px 3px rgb(255, 0, 0);
     padding: 8px;
     margin: 2px 0;
     font-size: 25px;
     font-family: "Oleo Script", system-ui, sans-serif;
-    font-weight: bolder;
+    font-weight: 800;
     font-style: normal;
 }
 
