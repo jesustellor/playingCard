@@ -22,6 +22,9 @@ h3 {
 
 li {
     list-style-type: none;
+    font-size: smaller;
+    font-weight: 400;
+    font-style: normal;
 }
 
 img {
@@ -40,7 +43,7 @@ img {
 
 p {
     padding: 0 10px;
-    font-family: "Oleo Script", system-ui;
+    font-family: "Libre Baskerville", "Oleo Script", system-ui, sans-serif;
     font-weight: 400;
     font-style: normal;
 }
@@ -59,8 +62,7 @@ ul {
 }
 
 span {
-    font-weight: bold;
+    font-size: 20px;
     font-family: "Permanent Marker", cursive, sans-serif;
-    font-weight: 400;
-    font-style: normal;
+    font-weight: 800;
 }
