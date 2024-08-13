@@ -1,5 +1,5 @@
 #root {
-    border: 2px solid red;
+    border: 2px solid rgb(0, 0, 0);
     height: 500px;
     width: 350px;
 }
@@ -8,19 +8,27 @@
     margin: 5px;
 }
 
+#image-container {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+}
+
 h1 {
-    border: 2px solid red;
     margin-top: 0px;
     margin-bottom: 2px;
     padding: 2px;
 }
 
 #text-container {
-    border: 2px solid red;
-    height: 150px;
-    margin: 14px
+    border: 2px solid rgb(0, 0, 0);
+    height: 148px;
+    margin: 14px;
+    padding: 15px 20px 20px 20px;
 }
 
 p {
+    padding: 0 0 10px 0;
     margin: 2px
 }
