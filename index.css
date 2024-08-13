@@ -1,0 +1,26 @@
+#root {
+    border: 2px solid red;
+    height: 500px;
+    width: 350px;
+}
+
+#title {
+    margin: 5px;
+}
+
+h1 {
+    border: 2px solid red;
+    margin-top: 0px;
+    margin-bottom: 2px;
+    padding: 2px;
+}
+
+#text-container {
+    border: 2px solid red;
+    height: 150px;
+    margin: 14px
+}
+
+p {
+    margin: 2px
+}
