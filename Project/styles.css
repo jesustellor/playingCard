@@ -22,7 +22,7 @@ h3 {
 
 li {
     list-style-type: none;
-    font-size: smaller;
+    font-size: normal;
     font-weight: 400;
     font-style: normal;
 }
@@ -41,18 +41,18 @@ img {
     opacity: 0.8;
 }
 
-p {
-    padding: 0 10px;
-    font-family: "Libre Baskerville", "Oleo Script", system-ui, sans-serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
 p em {
     font-size: 18px;
     font-style: italic;
     font-family: "Caveat", cursive, sans-serif;
     font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    padding: 0 10px;
+    font-family: "Oleo Script", system-ui, sans-serif;
     font-weight: 400;
     font-style: normal;
 }
