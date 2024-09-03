@@ -7,4 +7,4 @@ However, learners will be able to fork it to their personal Github account but c
 # animal-trading-cards
 Animal Trading Cards Project for Udacity's Web Nanodegree Programs.
 
-
+** This was updated with Docker **
