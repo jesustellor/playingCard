@@ -9,4 +9,4 @@ Animal Trading Cards Project for Udacity's Web Nanodegree Programs.
 
 ** This was updated with Docker **
 
-[Playing Card Display Link](https://jesustellor.github.io/playingCard/)
+[Playing Card Display Link](https://jesustellor.github.io/playingCard/){:target="_blank"}
